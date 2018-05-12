@@ -5,13 +5,13 @@ contributor:
   - agent_name: Adeney, Walter F. (Walter Frederic)
     alias: Adeney, W. F. (Walter Frederic)
     birthdate: 1849
-    deathdate: &id001 1920
+    deathdate: 1920
     gutenberg_agent_id: '5251'
     url: http://www.gutenberg.org/2009/agents/5251
   - agent_name: Bennett, W. H. (William Henry)
     alias: Bennett, William Henry
     birthdate: 1855
-    deathdate: *id001
+    deathdate: 1920
     gutenberg_agent_id: '40501'
     url: http://www.gutenberg.org/2009/agents/40501
 covers:
@@ -36,6 +36,8 @@ creator:
     gutenberg_agent_id: '36133'
     url: http://www.gutenberg.org/2009/agents/36133
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39819#Expositor-s-Bible--Index
 gutenberg_issued: '2012-05-27'
 gutenberg_type: Text
 identifiers:
